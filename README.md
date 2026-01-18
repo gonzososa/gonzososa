@@ -39,6 +39,13 @@
 ![Postman Badge](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&labelColor=FF6C37&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-purple?style=for-the-badge&logoColor=white&logo=insomnia)
 
+### Cloud, Virtualization & Containers
+![Azure Badge](https://img.shields.io/badge/-Azure-blue?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/-Firebase-DD2C00?style=for-the-badge&logo=firebase)
+![AWS Badge](https://img.shields.io/badge/-AWS-orange?style=for-the-badge)
+![HyperV Badge](https://img.shields.io/badge/-Hyper_V-cyan?style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=blue)
+
 ### Collaboration & Design
 ![Notion Badge](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&labelColor=black&logo=notion&logoColor=white)
 ![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&labelColor=black&logo=discord&logoColor=5865F2)
