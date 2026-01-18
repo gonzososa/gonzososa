@@ -5,7 +5,7 @@
 - 🌱 Father of two lovely kids.
 - 🚀 Keep learning and stay up to date to new trends and technologies
 - 💡 Subject lecturer at Veracruzana University 
-- 🎯 Mission: Spread my passion about techbology and system design to new generations.
+- 🎯 Mission: Spread my passion about technology and system design to new generations.
 - 🌱 Advocate for open-source collaboration and continuous learning.
 - 🦾 When not coding I'm a fitness enthusiast and a trekkinn practicioner.
 
