@@ -19,7 +19,6 @@
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
@@ -42,7 +41,6 @@
 ### Cloud, Virtualization & Containers
 ![Azure Badge](https://img.shields.io/badge/-Azure-blue?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/-Firebase-DD2C00?style=for-the-badge&logo=firebase)
-![AWS Badge](https://img.shields.io/badge/-AWS-orange?style=for-the-badge)
 ![HyperV Badge](https://img.shields.io/badge/-Hyper_V-cyan?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=blue)
 
